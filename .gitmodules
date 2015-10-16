@@ -4,5 +4,29 @@
 
 [submodule "bundle/vim-go"]
     path = bundle/vim-go
-    url = https://github.com/fatih/vim-go.gi
+    url = https://github.com/fatih/vim-go.git
 
+[submodule "bundle/Vundle.vim"]
+    path = bundle/Vundle.vim
+    url = https://github.com/gmarik/Vundle.vim.git
+[submodule "bundle/YouCompleteMe"]
+    path = bundle/YouCompleteMe
+    url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "bundle/nerdtree"]
+    path = bundle/nerdtree
+    url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/vim-fugitive"]
+    path = bundle/vim-fugitive
+    url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/tagbar"]
+    path = bundle/tagbar
+    url = https://github.com/majutsushi/tagbar.git
+[submodule "bundle/node"]
+    path = bundle/node
+    url = https://github.com/moll/vim-node.git
+[submodule "bundle/vim-sensible"]
+    path = bundle/vim-sensible
+    url = https://github.com/tpope/vim-sensible.git
+[submodule "bundle/dracular-theme"]
+    path = bundle/dracular-theme
+    url = https://github.com/zenorocha/dracular-theme.git
