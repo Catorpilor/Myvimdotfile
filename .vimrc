@@ -16,7 +16,8 @@ set number
 set ignorecase
 set smartcase
 set hlsearch
-set modifiable
+set softtabstop=4
+set shiftwidth=4
 autocmd BufWritePre * :%s/\s\+$//e
 " enable syntax highlighting
 
