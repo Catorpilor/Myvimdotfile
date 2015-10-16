@@ -27,6 +27,6 @@
 [submodule "bundle/vim-sensible"]
     path = bundle/vim-sensible
     url = https://github.com/tpope/vim-sensible.git
-[submodule "bundle/dracular-theme"]
-    path = bundle/dracular-theme
-    url = https://github.com/zenorocha/dracular-theme.git
+[submodule "bundle/dracula-theme"]
+    path = bundle/dracula-theme
+    url = https://github.com/zenorocha/dracula-theme.git
